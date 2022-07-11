@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marky-5714
+- 👋 Hi, I’m Maarcus Reniero L
 - 👀 I’m interested in all beginner level python and web development projects
 - 🌱 I’m currently learning Django and AWS 
 - 💞️ I’m looking to collaborate with all beginner people and improve my programming skills across all directions
@@ -6,6 +6,9 @@
 - Instagram : Username - _copyninja17
 - Twitter : Username - maarcus_reniero
 - Mail Id : maarcusreniero@gmail.com
+
+
+Udemy Course Link -> https://www.udemy.com/course/r-programming/
 
 The notes for this course is given in the following link -> https://thoracic-punch-3fc.notion.site/R-30bba03a2a3e473cb860bc5b600b1039
 
